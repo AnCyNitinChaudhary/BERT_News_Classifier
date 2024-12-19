@@ -1,0 +1,4 @@
+https://www.kaggle.com/code/nitincoder1/bert-classifier/edit
+
+can download the Dataset combined_output.csv from above link or you can use the below link and then clean your data using msi.py
+https://uc.hackerearth.com/he-public-data/dataset1c2f4b7.zip

@@ -1,0 +1,4 @@
+mpiexec -n 4 python mpi.py
+
+
+mpiexec -n 4 python .\mpi_smaller_dataset.py

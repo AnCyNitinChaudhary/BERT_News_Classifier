@@ -1,0 +1,9 @@
+# Ignore the myenv2 directory
+myenv2/
+
+# Ignore combined_output.csv
+combined_output.csv
+
+dataset/combined_output.csv
+dataset/combined_output_small.csv
+dataset/train.csv
